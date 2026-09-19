@@ -1,0 +1,5 @@
+# LeafLens detector settings.
+# The training dataset itself must contain ONE segmentation class: leaf.
+class_name: leaf
+architecture: yolo11n-seg
+input_size: 640

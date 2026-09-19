@@ -1,0 +1,4 @@
+classes:
+  - Early
+  - Mature
+input_size: 224

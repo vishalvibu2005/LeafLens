@@ -1,0 +1,4 @@
+# Confidence bands used across the UI. Tune freely.
+high: 0.80
+medium: 0.55
+# below "medium" is treated as low-confidence / unknown

@@ -1,0 +1,12 @@
+# Configurable leaf type classes.
+# These are the only classes the demo/trained classifier can recognize.
+# Add real classes here once a dataset is collected for them.
+classes:
+  - Mango
+  - Neem
+  - Guava
+  - Rose
+  - Hibiscus
+  - Tulsi
+  - Banana
+input_size: 224

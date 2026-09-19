@@ -1,0 +1,5 @@
+classes:
+  - Healthy
+  - Diseased
+input_size: 224
+confidence_threshold: 0.60
